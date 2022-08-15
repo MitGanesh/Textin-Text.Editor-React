@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Click Here to visit the app - https://textin-text-gm.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
